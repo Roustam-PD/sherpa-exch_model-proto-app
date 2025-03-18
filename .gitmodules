@@ -1,0 +1,9 @@
+[submodule "sherpa-exch_model-control-app"]
+	path = sherpa-exch_model-control-app
+	url = https://github.com/Roustam-PD/sherpa-exch_model-control-app.git
+[submodule "Platform"]
+	path = Platform
+	url = https://github.com/Roustam-PD/sherpa-exch_model-platform-app.git
+[submodule "Control"]
+	path = Control
+	url = https://github.com/Roustam-PD/sherpa-exch_model-control-app.git
